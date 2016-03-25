@@ -4,7 +4,7 @@
     <meta charet="utf-8">
     <title>Olin Huffman</title>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link href="/css/olinhuffman.css" rel="stylesheet" type="text/css">
+    <link href="olinhuffman.css" rel="stylesheet" type="text/css">
   </head>
     <nav>
       <ul>
